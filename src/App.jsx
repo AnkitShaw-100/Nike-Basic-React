@@ -61,7 +61,7 @@ const App = () => {
         <div className="right">
             <img
                 className={styles.shoe_image}
-                src="../public/images/shoe_image.png"
+                src="/images/shoe_image.png"
                 alt="Shoe image"
             />
         </div>
